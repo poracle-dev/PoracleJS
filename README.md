@@ -13,12 +13,11 @@ It allows for high end-user configurability using discord `!commands` or telegra
 - [Discord](https://discord.gg/AathPCp) - Place for #help and #announcments  
 
 ### Install
-- [Install NodeJS](https://nodejs.org/en/) version 10 or higher
-- [Create a discord bot and invite it to your server](https://wiki.poracle.world/createBot)
+- [Install NodeJS](https://nodejs.org/en/) version 12 or higher
+- [Create a discord bot and invite it to your server](https://muckelba.github.io/poracleWiki/discordbot)
 
 ```bash
 git clone https://github.com/poracle-dev/PoracleJS.git   // Clone the repository
-git checkout develop                                     // develop is the version to be on right now
 cd PoracleJS                                            // Navigate to the root of the project
 npm install                                             // install dependencies
 npm run init                                            // Create your basic config
